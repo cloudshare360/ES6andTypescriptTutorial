@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2016"2023-03-07-10-11-43.png,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "outDir": "scripts/"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
